@@ -1,19 +1,21 @@
-<h1 align="center">Hey! Kartekeya Sharma!</h1>
+<h1 align="center">Hey there! I'm Kartekeya Sharma!</h1>
 <h3 align="center">Founder @Q-PULSE | Tech Enthusiast | Front End Developer | Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartekeya-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartekeya-sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartekeya-sharma" alt="kartekeya-sharma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/18.kartekeya" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/18.kartekeya?logo=twitter&style=for-the-badge" alt="https://twitter.com/18.kartekeya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/18kartekeya" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/18kartekeya?logo=twitter&style=for-the-badge" alt="https://twitter.com/18kartekeya" /></a> </p>
 
-- 💬 Ask me about **HTML | CSS | Bootstrap | Python | C**
+- 🔭 Currently working on [Q-PULSE](https://kartekeya-sharma.github.io/Q-PULSE.github.io/)
 
-- 📫 How to reach me **ojussharma32@gmail.com**
+- 💬 Ask me about: **HTML | CSS | Bootstrap | Python | C**
+
+- 📫 Reach me at: **ojussharma32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/18.kartekeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/18.kartekeya" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/18kartekeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/18kartekeya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kartekeya-sharma-480374247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartekeya-sharma-480374247/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kartekeya_sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartekeya_sharma/" height="30" width="40" /></a>
 </p>
