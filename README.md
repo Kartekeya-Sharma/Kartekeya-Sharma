@@ -18,7 +18,7 @@ I am a Founder | Full Stack Developer | Quantum Enthusiast | Tech Enthusiast <im
 
 - 🔭 Currently majoring in Computer Science & Engineering.
 - 🌱 Exploring Quantum computing.
-- ⚡ In my free time I solve problems .
+- ⚡ In my free time you can catch me coding or teaching quantum computing.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Kartekeya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartekeya-sharma-480374247)
 
 ---
